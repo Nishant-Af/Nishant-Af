@@ -1,11 +1,13 @@
 # Hi, I'm Nishant 👋
 
-Welcome to my GitHub profile! I enjoy building projects and exploring new technologies.
+<img align="right" height="150" src="guts_in_rain.gif" alt="Guts in the rain">
 
-- 🌐 GitHub: Hi, I am [Nishant](https://github.com/nishant-af) 19 yo coder boy
-- I am a coder, Gamer, Dreamer, Playboy
-- Outside of coding, I love watching sci-fi movies
-- 🛠️ I Love C++
+Welcome to my GitHub profile! 👋 I enjoy building projects and exploring new technologies. 🚀
+
+- 👨‍💻 I am [Nishant](https://github.com/nishant-af) 19 yo Coder boy
+- 🎮 I am a coder, Gamer, Dreamer, Playboy ✨
+- 🎬 Outside of coding, I love watching sci-fi movies and Play Story Driven Games 🎮
+- 🛠️ I Love C/C++ Programming 
 
 ## Technologies
 
@@ -21,4 +23,4 @@ Welcome to my GitHub profile! I enjoy building projects and exploring new techno
 
 ## Top Languages
 
-![Nishant's top languages](https://raw.githubusercontent.com/nishant-af/nishant-af/languages-output/languages.svg)
+<img src="https://raw.githubusercontent.com/nishant-af/nishant-af/languages-output/languages.svg" alt="Nishant's top languages" width="100%">
