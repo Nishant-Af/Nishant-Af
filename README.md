@@ -1,4 +1,4 @@
-src="https://github.com/user-attachments/assets/cb84203f-1344-4b56-976d-a7d775a48823" /># Hi, I'm Nishant 👋
+# Hi, I'm Nishant 👋
 
 Welcome to my GitHub profile! I enjoy building projects and exploring new technologies.
 
