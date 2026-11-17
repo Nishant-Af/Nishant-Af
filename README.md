@@ -1,9 +1,11 @@
-# Hi, I'm Nishant 👋
+<img width="480" height="480" alt="StarWarsSpaceGIFbyFeliksTomaszKonczakowski" src="https://github.com/user-attachments/assets/cb84203f-1344-4b56-976d-a7d775a48823" /># Hi, I'm Nishant 👋
 
 Welcome to my GitHub profile! I enjoy building projects and exploring new technologies.
 
-- 🌐 GitHub: [@nishant-af](https://github.com/nishant-af)
-- 🛠️ Technologies: C, C++, Python, Rust, and JavaScript
+- 🌐 GitHub: Hi, I am [Nishant](https://github.com/nishant-af) 19 yo coder boy
+- I am a coder, Gamer, Dreamer, Playboy
+- Outside of coding, I love watching sci-fi movies
+- 🛠️ I Love C++
 
 ## Technologies
 
