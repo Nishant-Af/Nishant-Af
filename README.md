@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! 👋 I enjoy building projects and exploring new technologies. 🚀
 
 - 👨‍💻 I am [Nishant](https://github.com/nishant-af) 19 yo Coder boy
-- 🎮 I am a coder, Gamer, Dreamer, Playboy ✨
+- 🎮 I am a coder, Gamer, Dreamer, Overthinker ✨
 - 🎬 Outside of coding, I love watching sci-fi movies and Play Story Driven Games 🎮
 - 🛠️ I Love C/C++ Programming 
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! 👋 I enjoy building projects and exploring new t
     <td>
       <table>
         <tr><th>Social Links</th></tr>
-        <tr><td><a href="https://instagram.com/nishant_cyberboy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://nishant-af.github.io"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a></td></tr>
+        <tr><td><a href="https://instagram.com/nishant_cyberboy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://nishant-af.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a></td></tr>
         <tr><td><a href="https://t.me/Nishant_Stark"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a></td></tr>
         <tr><td><a href="https://github.com/nishant-af"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td></tr>
       </table>
